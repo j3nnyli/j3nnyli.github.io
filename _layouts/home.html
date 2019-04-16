@@ -2,14 +2,14 @@
 layout: default
 ---
 
-{% if page.profile %}
-  <div class="profile col one {{ page.profile.align }}">
-    {% if page.profile.image %}
-      <img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+{% if home.profile %}
+  <div class="profile col one {{ home.profile.align }}">
+    {% if home.profile.image %}
+      <img class="one" src="{{ home.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
-    {% if page.profile.address %}
+    {% if home.profile.address %}
       <div class="address">
-        {{ page.profile.address }}
+        {{ home.profile.address }}
       </div>
     {% endif %}
   </div>
