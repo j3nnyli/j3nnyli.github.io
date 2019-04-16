@@ -4,7 +4,7 @@ permalink: /
 
 profile:
   align: right
-  image: /assets/images/profile.jpg
+  image: profile.jpg
 ---
 
 <i>Buried deep within you, beneath all the years of pain and anger, there is something that has never been nurtured: the potential to make yourself a better man. And that is what it is to be human. To make yourself more than you are. Oh, yes — I know you. There was a time you looked at the stars and dreamed of what might be.</i>
