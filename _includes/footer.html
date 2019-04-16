@@ -4,7 +4,7 @@
       {% if site.email %}
         <li class='footer__item'>
           <a href='mailto:{{ site.email }}' title='email'>
-            <i class="fa fa-at"></i> Email
+            <i class="fa fa-at"></i>
           </a>
         </li>
       {% else %}
@@ -31,7 +31,7 @@
     {% if site.facebook_username %}
       <li class='footer__item'>
         <a href='https://www.facebook.com/{{ site.facebook_username }}' title='facebook'>
-          <i class="fa fa-facebook"></i> Facebook
+          <i class="fa fa-facebook"></i>
         </a>
       </li>
     {% endif %}
@@ -39,7 +39,15 @@
     {% if site.linkedin_username %}
       <li class='footer__item'>
         <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-          <i class="fa fa-linkedin"></i> LinkedIn
+          <i class="fa fa-linkedin"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.instagram_username %}
+      <li class='footer__item'>
+        <a href="https://instagram.com/{{ site.instagram_username }}">
+          <i class="fa fa-instagram"></i>
         </a>
       </li>
     {% endif %}
