@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="/assets/images/profile.jpg" align="center" height="500px" width="500px">
+<img src="/assets/images/profile.jpg" align="middle" height="250px" width="250px">
 
 <i>Buried deep within you, beneath all the years of pain and anger, there is something that has never been nurtured: the potential to make yourself a better man. And that is what it is to be human. To make yourself more than you are. Oh, yes — I know you. There was a time you looked at the stars and dreamed of what might be.<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;–Captain Jean-Luc Picard</b></i>
 
