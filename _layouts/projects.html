@@ -3,16 +3,16 @@ layout: default
 ---
 
 {% if site.projects.size > 0 %}
-<ul class='projects'>
+<ul class='project'>
   {% for post in site.projects %}
-  <li class='projects__item'>
-    <time class='projects__date' datetime='{{ post.date | date_to_xmlschema }}'>
+  <li class='project__item'>
+    <time class='project__date' datetime='{{ project.date | date_to_xmlschema }}'>
       {% assign date_format = site.date_format | default: '%b %-d, %Y' %}
-      {{ projects.date | date: date_format }}
+      {{ project.date | date: date_format }}
     </time>
-    <div class='projects__title'>
-      <a class='projects__link' href='{{ post.url | relative_url }}'>
-        {{ projects.title | escape }}
+    <div class='project__title'>
+      <a class='project__link' href='{{ project.url | relative_url }}'>
+        {{ project.title | escape }}
       </a>
     </div>
   </li>
