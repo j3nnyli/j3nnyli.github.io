@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{% if site.projects.size > 0 %}
+{% if site.project.size > 0 %}
 <ul class='project'>
-  {% for post in site.projects %}
+  {% for post in site.project %}
   <li class='project__item'>
     <time class='project__date' datetime='{{ project.date | date_to_xmlschema }}'>
       {% assign date_format = site.date_format | default: '%b %-d, %Y' %}
