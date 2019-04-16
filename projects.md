@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /
+title: Projects
+permalink: /projects/
 ---
 
 This is a Jekyll theme. You can find more infomation at [Jekyll theme](https://jekyllrb.com/docs/themes/).

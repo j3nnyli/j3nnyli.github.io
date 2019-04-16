@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% if site.projects.size > 0 %}
+<ul class='projects'>
+  {% for post in site.projects %}
+  <li class='projects__item'>
+    <time class='projects__date' datetime='{{ post.date | date_to_xmlschema }}'>
+      {% assign date_format = site.date_format | default: '%b %-d, %Y' %}
+      {{ projects.date | date: date_format }}
+    </time>
+    <div class='projects__title'>
+      <a class='projects__link' href='{{ post.url | relative_url }}'>
+        {{ projects.title | escape }}
+      </a>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
