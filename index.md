@@ -9,7 +9,7 @@ permalink: /
 <p></p>
 <p></p>
 
-<img src="/assets/img/profile.jpg" style="float:right;padding-left:70px;">
+<img src="/assets/img/profile.jpg" style="float:right;padding-left:10px;padding-bottom:10px;">
 
 <b>Hello world!</b> I am currently a fourth-year undergraduate at Georgia Tech. My family is originally from Xiamen, China, and I'm native to Atlanta, Georgia. I'm majoring in Industrial Engineering with a concentration in Economic and Financial Systems, and I'm also obtaining a minor in Economics.
 
