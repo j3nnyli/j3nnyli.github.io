@@ -1,16 +1,13 @@
 ---
 layout: home
 permalink: /
-
-profile:
-  align: right
-  image: profile.jpg
 ---
 
 <i>Buried deep within you, beneath all the years of pain and anger, there is something that has never been nurtured: the potential to make yourself a better man. And that is what it is to be human. To make yourself more than you are. Oh, yes — I know you. There was a time you looked at the stars and dreamed of what might be.</i>
 <b>–Captain Jean-Luc Picard</b>
 
-
+<p></p>
+<p></p>
 
 <b>Hello world!</b> I am currently a fourth-year undergraduate at Georgia Tech. My family is originally from Xiamen, China, and I'm native to Atlanta, Georgia. I'm majoring in Industrial Engineering with a concentration in Economic and Financial Systems, and I'm also obtaining a minor in Economics.
 
