@@ -5,7 +5,7 @@ tag: projects
 date: 2017-08-01 00:00
 ---
 
-[Check this project out](https://mahara.gatech.edu/view/view.php?t=Q3UdN9s2nT5v6aCzJjMW) here.
+<i>This project remains confidential.</i>
 
 As an intern at The Coca-Cola Company in the Revenue Growth Management department, I collaborated with two other RGM interns, Christina Fleischer and Benedict Wong, to solve this business problem.
 
