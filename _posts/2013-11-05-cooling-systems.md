@@ -1,6 +1,7 @@
 ---
 title: "Cooling Systems for Frictionless Transportation"
-layout: project
+layout: post
+tag: projects
 date: 2013-11-05 00:00
 ---
 

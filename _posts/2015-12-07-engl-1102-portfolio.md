@@ -1,6 +1,7 @@
 ---
 title: "Georgia Tech English 1102 Portfolio"
-layout: project
+layout: post
+tag: projects
 date: 2015-12-07 00:00
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Finding the Right Outlets for Coca-Cola"
-layout: project
+layout: post
+tag: projects
 date: 2017-08-01 00:00
 ---
 

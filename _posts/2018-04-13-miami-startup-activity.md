@@ -1,6 +1,7 @@
 ---
 title: "Miami Startup Activity Through an Urban Economics Lens"
-layout: project
+layout: post
+tag: projects
 date: 2018-04-13 00:00
 ---
 
